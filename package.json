@@ -5,13 +5,14 @@
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {
-    "lite-server": "^2.4.0"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server"
+    "start": "nodemon server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
 }
