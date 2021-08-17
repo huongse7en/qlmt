@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb36eafd.chunk.css",
+    "main.js": "/static/js/main.3decd31e.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.71006bce.js",
+    "static/css/2.922b53b9.chunk.css": "/static/css/2.922b53b9.chunk.css",
+    "static/js/2.8cb577df.chunk.js": "/static/js/2.8cb577df.chunk.js",
+    "static/css/3.a2bf272f.chunk.css": "/static/css/3.a2bf272f.chunk.css",
+    "static/js/3.1f4744e0.chunk.js": "/static/js/3.1f4744e0.chunk.js",
+    "static/css/4.9f0cbcb5.chunk.css": "/static/css/4.9f0cbcb5.chunk.css",
+    "static/js/4.111b3962.chunk.js": "/static/js/4.111b3962.chunk.js",
+    "static/js/5.43d36696.chunk.js": "/static/js/5.43d36696.chunk.js",
+    "static/js/6.42e69bab.chunk.js": "/static/js/6.42e69bab.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.8cb577df.chunk.js.LICENSE.txt": "/static/js/2.8cb577df.chunk.js.LICENSE.txt",
+    "static/js/3.1f4744e0.chunk.js.LICENSE.txt": "/static/js/3.1f4744e0.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/static/media/1.6aeb9f04.png",
+    "static/media/11.png": "/static/media/11.3d7b5c26.png",
+    "static/media/2.png": "/static/media/2.cebfcba9.png",
+    "static/media/3.png": "/static/media/3.c29dbc02.png",
+    "static/media/4.png": "/static/media/4.dc746c6e.png",
+    "static/media/5.png": "/static/media/5.f445e1de.png",
+    "static/media/6.png": "/static/media/6.4961413a.png",
+    "static/media/8.png": "/static/media/8.1b2bfbd4.png",
+    "static/media/global-styles.css": "/static/media/prev.6a64010e.svg",
+    "static/media/background.63795f7c.jpg": "/static/media/background.63795f7c.jpg",
+    "static/media/CharacterItem.module.css": "/static/media/bg_character.f9a174a1.svg",
+    "static/media/bg_opponent.ab57b49c.png": "/static/media/bg_opponent.ab57b49c.png",
+    "static/media/bg_popup.b1d5f592.png": "/static/media/bg_popup.b1d5f592.png",
+    "static/media/ic_fighting.c35caa03.svg": "/static/media/ic_fighting.c35caa03.svg",
+    "static/media/ic_lose.0843bc3b.svg": "/static/media/ic_lose.0843bc3b.svg",
+    "static/media/ic_win.1c07a67d.svg": "/static/media/ic_win.1c07a67d.svg",
+    "static/media/index.module.css": "/static/media/logo 1.2fc719ee.svg",
+    "static/media/seed.c45c19ce.png": "/static/media/seed.c45c19ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71006bce.js",
+    "static/css/3.a2bf272f.chunk.css",
+    "static/js/3.1f4744e0.chunk.js",
+    "static/css/main.fb36eafd.chunk.css",
+    "static/js/main.3decd31e.chunk.js"
+  ]
+}
